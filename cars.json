@@ -1,6 +1,6 @@
 [
   {
-    "id": "mercedes",
+    "id": "mercedes-sclass",
     "name": "Mercedes-Benz S-Class",
     "year": 2024,
     "power": "429 hp",
@@ -10,7 +10,7 @@
     "model3d": "https://sketchfab.com/models/2a8e1e2e2e2e4e1b8e2e2e2e2e2e2e2e/embed"
   },
   {
-    "id": "bmw",
+    "id": "bmw-7series",
     "name": "BMW 7 Series",
     "year": 2024,
     "power": "375 hp",
@@ -20,7 +20,7 @@
     "model3d": "https://sketchfab.com/models/7b7b7b7b7b7b4b7b8b7b7b7b7b7b7b7b/embed"
   },
   {
-    "id": "audi",
+    "id": "audi-a8",
     "name": "Audi A8",
     "year": 2024,
     "power": "335 hp",
@@ -28,5 +28,45 @@
     "type": "Luxury Sedan",
     "image": "https://cdn.pixabay.com/photo/2016/03/27/19/40/audi-1283879_1280.jpg",
     "model3d": "https://sketchfab.com/models/8a8a8a8a8a8a4a8a8a8a8a8a8a8a8a8a/embed"
+  },
+  {
+    "id": "mercedes-gle",
+    "name": "Mercedes-Benz GLE",
+    "year": 2024,
+    "power": "362 hp",
+    "price": 82500,
+    "type": "Luxury SUV",
+    "image": "https://cdn.pixabay.com/photo/2018/05/02/19/54/mercedes-3368245_1280.jpg",
+    "model3d": "https://sketchfab.com/models/7w7p7b7b7b7b4b7b8b7b7b7b7b7b7b7b/embed"
+  },
+  {
+    "id": "porsche-taycan",
+    "name": "Porsche Taycan Turbo S",
+    "year": 2024,
+    "power": "750 hp",
+    "price": 185000,
+    "type": "Electric Sedan",
+    "image": "https://cdn.pixabay.com/photo/2020/02/07/20/59/porsche-4826242_1280.jpg",
+    "model3d": "https://sketchfab.com/models/6e7e7e7e7e7e4e7e8e7e7e7e7e7e7e7e/embed"
+  },
+  {
+    "id": "lexus-ls",
+    "name": "Lexus LS 500h",
+    "year": 2024,
+    "power": "354 hp",
+    "price": 90000,
+    "type": "Luxury Sedan",
+    "image": "https://cdn.pixabay.com/photo/2017/01/06/19/15/lexus-1957038_1280.jpg",
+    "model3d": "https://sketchfab.com/models/5d5d5d5d5d5d4d5d8d5d5d5d5d5d5d5d/embed"
+  },
+  {
+    "id": "ferrari-288gto",
+    "name": "Ferrari 288 GTO",
+    "year": 1984,
+    "power": "400 hp",
+    "price": 2500000,
+    "type": "Classic Sports Car",
+    "image": "https://cdn.pixabay.com/photo/2017/01/06/19/15/ferrari-288gto-1957039_1280.jpg",
+    "model3d": "https://sketchfab.com/models/0ce7dc695f764452ac4ed73166cd9f82/embed"
   }
 ] 
